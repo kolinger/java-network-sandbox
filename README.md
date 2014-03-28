@@ -3,7 +3,7 @@ Benchmark
 - one thread for listener
 - one thread for sender
 - 1 000 000 messages
-- loopack
+- loop-back
 - processor i5-3230M
 
 Results
